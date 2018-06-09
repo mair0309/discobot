@@ -1,8 +1,9 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 const http = require("http");
+
 var TOKEN = "TOKEN PART 1";
-//"MzQzNDcyOTg2ODA5OTU4NDIw.DGerqw.9uJIKEjNy0MnFeLVatRaLv658BQ";
+
 const PREFIX = "."
 
 var bot = new Discord.Client();
@@ -10,7 +11,6 @@ var gyms;
 var canadd = ['1169'];
 
 bot.on("ready", function(){
-    //var url = "http://www.inu-papa.com/game/gyms.txt";
     var data = '';
     /*http.get(url, function (res) {
         console.log(res.statusCode);
