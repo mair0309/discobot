@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const fs = require("fs");
 const http = require("http");
 
-var TOKEN = "8WuCfdaHm-1G-jDX";
+var TOKEN = "NDU1MDczNTEyMjQwMTg1MzQ1";
 
 const PREFIX = "."
 
@@ -116,7 +116,7 @@ bot.on("message", function(message){
             break;
     }
 });
-const TOKEN2 = "JOaxynVvJfSC84dg"
+const TOKEN2 = ".Df2sMg.5igrW9W19pZTUQWiACfOwSHWI-w"
 TOKEN = TOKEN + TOKEN2;
 console.log(TOKEN);
 bot.login(TOKEN);
