@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 const http = require("http");
-var TOKEN = "MzkyMTAwMjg2Mzg4NTAyNTMx.";
+var TOKEN = "TOKEN PART 1";
 //"MzQzNDcyOTg2ODA5OTU4NDIw.DGerqw.9uJIKEjNy0MnFeLVatRaLv658BQ";
 const PREFIX = "."
 
@@ -116,7 +116,7 @@ bot.on("message", function(message){
             break;
     }
 });
-const TOKEN2 = "DRiTXw.ik6A2G-TWnv8H5XU6YS7ek9vr2g"
+const TOKEN2 = "TOKEN PART 2"
 TOKEN = TOKEN + TOKEN2;
 console.log(TOKEN);
 bot.login(TOKEN);
