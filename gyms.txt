@@ -1,112 +1,71 @@
-Peppler Field;44.025546,-88.577045
-Beach Mural;44.013685,-88.552204
-Oldest House;44.00678,-88.55928
-Carl Steiger Park;44.019767,-88.550524
-Sacred Heart Parish;44.012726,-88.562503
-F.W. Vanderpool memorial ;44.015621,-88.568071
-Fox Harbor;44.029045,-88.562064
-Masjid Qamar Oshkosh Mosque;44.021841,-88.572121
+Al Broullire Memorial Park;44.012607,-88.537946
+Ames Point;44.032075,-88.512547
+Average Size Mosquito In Wisco;44.033491,-88.557488
 Bauman Park;44.031482,-88.564614
-Algoma Boulevard United Methodist Church;44.031725,-88.555597
-All Saints Lutheran Church;44.029433,-88.608179
-Church of Jesus Christ of Latter Day Saints;44.027825,-88.603712
-Christmas Box Angel of Hope;44.030441,-88.571762
-Red Arrow Skate Park;44.026114,-88.573741
-Red Arrow Park;44.026813,-88.577071
-Pollock Community Water Park;44.025971,-88.572993
-Sawyer Creek Trail;44.029239,-88.572831
-The 32d Red Arrow Division;44.02598,-88.5769
-Red Arrow Playground;44.027035,-88.576712
-Titan Stadium;44.023648,-88.564212
-Zion Lutheran Church;44.023352,-88.566461
-Victory Christian Cathedral;44.030473,-88.566289
-Memorial Tree;44.030387,-88.552431
-Arts and Communications Center;44.029125,-88.552121
-Reeve Memorial Union Plaque;44.024786,-88.548896
-Albee Hall and Pool;44.025578,-88.550645
-Yin & Yang;44.023734,-88.554507
-Kevin Geitner Memorial Tree;44.029423,-88.551312
-University of Wisconsin Oshkosh monument;44.026259,-88.551185
-Greg Olsen Memorial Tree;44.028121,-88.552559
-Temple B'nai Israel;44.03039,-88.555157
-Frederick March Sculpture Of A Pillar;44.029118,-88.553567
-Sculpture at Fredric March Theatre;44.028676,-88.552936
-Norman Frisch Memorial Bench;44.030227,-88.552649
-Polk Library;44.026743,-88.549292
-John Deere memorial tree;44.026874,-88.550247
-The University of Wisconsin – Oshkosh;44.02632,-88.55204
-Taylor Hall;44.025141,-88.550612
-Marsha Dennison Rossiter Memorial Tree;44.024315,-88.55483
-Dempsey Hall;44.02651,-88.551118
-Newman Center Catholic Ministry;44.02661,-88.548752
-Sculpture at Polk Library;44.026378,-88.549842
-Oshkosh Post Office;44.024685,-88.549439
-Robert John Wonders Memorial;44.028391,-88.552133
-Sculpture at UW-Oshkosh;44.029336,-88.553409
-Buckstaff Planetarium;44.028394,-88.55145
-Periodic Table of Elements Sculpture;44.027995,-88.551218
-Nancy Kaufman Memorial Tree;44.024476,-88.554951
-Radford Hall;44.025712,-88.551464
-Pollock Alumni House;44.025462,-88.551146
-Oviatt House;44.027028,-88.551603
-Class Of 1981 Park Bench;44.023537,-88.554424
-UWO Business Solar Panels;44.025452,-88.553581
-Halsey Science Center;44.028434,-88.550533
-Harrington Hall;44.027784,-88.550026
-Swimming Fish Mural ;44.025235,-88.550065
-Reflections - Art on Polk Library;44.026802,-88.549974
-Swart Hall;44.027804,-88.552108
-Nature Park;44.024491,-88.554285
-Kolf Sports Center;44.024956,-88.5525
-Captain Lawrence J. White Memorial;44.023761,-88.554185
-Sundial Pedestal;44.027554,-88.550865
-Fletcher Hall;44.025131,-88.547653
-The Gathering Place Campus Ministry;44.023867,-88.547383
-Statue of President Lincoln;44.023171,-88.54718
-Statue of Mary;44.026618,-88.548462
-Campus Center For Equity and Diversity;44.024758,-88.546912
-Student Success Center;44.026175,-88.548372
-Reeve Memorial Union;44.025126,-88.548722
-Wyldewood Baptist Church;44.018921,-88.609121
-Algoma Parks and Trails;44.018924,-88.604376
-The Pride of Oshkosh Lion Heritage;44.017444,-88.585598
-Oakhaven Church;44.017858,-88.587893
-Oshkosh Lanes;44.02211,-88.582709
-Immanuel Lutheran Church;44.02281,-88.57212
-Rock Sculptures;44.022362,-88.552688
-River Pagoda;44.018061,-88.552429
-William Steiger Park;44.017823,-88.552307
-Sailing Sculpture at Oshkosh Senior Center;44.01975,-88.555341
-Fox Valley Tech;44.017939,-88.554893
-UWO High Ave Parking Ramp;44.022599,-88.549395
-Bangkok Thai Cuisine;44.019586,-88.548277
-Abbey Park;44.014329,-88.594686
-A Mother's Love;44.013528,-88.601118
-Shepherd of Life Stone Mural;44.013529,-88.600837
-Little Free Library;44.012943,-88.594645
+Bethlehem Lutheran Church;44.032322,-88.545755
+Bur Oak In Memory Of Harry I. Miller;44.034707,-88.517848
 Calvary Lutheran Church;44.011062,-88.596921
-Oshkosh West Water Tower;44.012011,-88.584667
-Good Shepherd Lutheran Church;44.011242,-88.593574
-St. Raphael Archangel Catholic Church;44.013185,-88.593524
-Statue of Burger Liberty;44.011903,-88.580698
-Bike Guy;44.007137,-88.580042
-Oshkosh World War II Memorial;44.008159,-88.552825
-Shelter 2;44.007143,-88.557039
-Southpark Playground;44.007163,-88.55661
-Deep Blue Sea Mural;44.008972,-88.552274
-South Park Water Playground;44.007551,-88.55636
-Oshkosh Inclusive Park;44.007131,-88.555949
-Ed and Bea Sosinski Memorial;44.007492,-88.554414
-Little Free Library #29272;44.002237,-88.606746
-Living Water Lutheran Church;44.003092,-88.603791
-Westhaven Circle Park;44.001939,-88.59772
-Westhaven Clubhouse Area Detention Basin And Storm Sewer Improvement;44.002058,-88.594783
-Wesley United Methodist Church;44.003158,-88.556951
+Carl Schurz Monument;44.017756,-88.51642
+Carl Steiger Park;44.019767,-88.550524
+Christmas Box Angel of Hope;44.030441,-88.571762
+Cooper Wells Bridge;44.021896,-88.518704
+Dempsey Hall;44.02651,-88.551118
+Edgar Sawyer House;44.0336,-88.55784
 Emmanuel United Church of Christ;44.006342,-88.549877
-Wesley United Methodist Church;44.003158,-88.556624
-River of Life;44.006595,-88.549149
-South Park Event Board;44.005835,-88.55529
+First Baptist Temple;44.02078,-88.539804
+First Evangelical Church;44.017592,-88.529421
+First Presbyterian Church;44.020369,-88.538609
+Frederick March Sculpture Of A Pillar;44.029118,-88.553567
+Halsey Science Center;44.028434,-88.550533
+History of Oshkosh Mural;44.017254,-88.539094
+Immanuel Lutheran Church;44.02281,-88.57212
+In Memory of Patricia A. Nielson;44.019514,-88.543371
+In Memory of S. Neal Hartwell;44.021099,-88.516835
+Leach Amphitheater;44.013688,-88.534746
+Lion Sculpture;44.017821,-88.535852
+Lion Sculpture;44.020715,-88.519316
+Lion Sculpture;44.021149,-88.518632
+Lion Statue At City Hall;44.020188,-88.541726
+Little Free Library #29272;44.002237,-88.606746
+Little Free Library;44.012943,-88.594645
+Menominee Park Carousel ;44.022579,-88.517825
+Menominee Park Zoo;44.020456,-88.51938
+Menominee Park;44.020988,-88.520115
+Nicole Vogel Edwards Memorial Tree;44.036862,-88.511082
+Niko's Gyros ;44.02112,-88.546648
+Norman Frisch Memorial Bench;44.030227,-88.552649
+Oldest House;44.00678,-88.55928
+Oshkosh City Hall ;44.020342,-88.541308
+Oshkosh Inclusive Park;44.007131,-88.555949
+Oshkosh Post Office;44.024685,-88.549439
+Oshkosh Public Library;44.017781,-88.536246
+Oshkosh West Water Tower;44.012011,-88.584667
+Oshkosh World War II Memorial;44.008159,-88.552825
+Paine Lumber Barn;44.035244,-88.560796
+Peppler Field;44.025546,-88.577045
+Periodic Table of Elements Sculpture;44.027995,-88.551218
+Pick N Save;44.041104,-88.541907
 Plymouth Congregational Church;44.005719,-88.558034
-In Memory of Bob Kuhn;44.006448,-88.553497
-South Park Oshkosh;44.005532,-88.557288
-South Park;44.006381,-88.552858
+Rainbow Park;44.034495,-88.565867
+Ralph Loots Memorial Plaque ;44.023036,-88.515686
+Rising Sun Campus Ministry;44.024187,-88.54489
+Robert Pung Memorial Bench;44.035931,-88.510777
+Rock Sculptures;44.022362,-88.552688
+Saint Andrew's Evangelical Lutheran Church;44.039949,-88.523035
+Sculpture at Fredric March Theatre;44.028676,-88.552936
+St Josaphat's Church;44.035267,-88.55156
+St. John's Lutheran Church of Oshkosh;44.026897,-88.537452
+St. Raphael Archangel Catholic Church;44.013185,-88.593524
+Statue of President Lincoln;44.023171,-88.54718
+Swart Hall;44.027804,-88.552108
+The Daily Northwestern;44.016799,-88.536004
+The Gathering Place Campus Ministry;44.023867,-88.547383
+The Pride of Oshkosh Lion Heritage;44.017444,-88.585598
+The Waters;44.01723,-88.516281
+Trinity Lutheran Church;44.017438,-88.527221
+US Post Office;44.015619,-88.536236
+UWO Lincoln Hall;44.022708,-88.546411
+Veterans of Foreign Wars Memorial;44.012532,-88.521138
+War Veterans Monument;44.022103,-88.519984
+Washington;44.031949,-88.522099
+William Steiger Park;44.017823,-88.552307
