@@ -53,7 +53,7 @@ Robert Pung Memorial Bench;44.035931,-88.510777
 Rock Sculptures;44.022362,-88.552688
 Saint Andrew's Evangelical Lutheran Church;44.039949,-88.523035
 Sculpture at Fredric March Theatre;44.028676,-88.552936
-St Josaphat's Church;44.035267,-88.55156
+St Joes Church;44.035267,-88.55156
 St. John's Lutheran Church of Oshkosh;44.026897,-88.537452
 St. Raphael Archangel Catholic Church;44.013185,-88.593524
 Statue of President Lincoln;44.023171,-88.54718
