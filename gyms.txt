@@ -72,5 +72,5 @@ The Gathering Place Campus Ministry;44.023867,-88.547383
 The Pride of Oshkosh Lion Heritage;44.017444,-88.585598
 Trinity Lutheran Church;44.017438,-88.527221
 United States Postal Service;43.995205,-88.563272
-Veterans of Foreign Wars Memorial;44.012532,-88.521138
+VFW Memorial;44.012532,-88.521138
 William Steiger Park;44.017823,-88.552307
