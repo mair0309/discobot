@@ -1,59 +1,68 @@
+1948 Lockheed Shooting Star;43.981109,-88.581711
 Al Broullire Memorial Park;44.012607,-88.537946
 Ames Point;44.032075,-88.512547
 Average Size Mosquito In Wisco;44.033491,-88.557488
 Bauman Park;44.031482,-88.564614
+Bender Memorial Monument;43.994747,-88.584448
+Bethany United Church of Christ;43.991803,-88.540228
 Bethlehem Lutheran Church;44.032322,-88.545755
+Bridge Dedicated to Harvey Ackerman;43.990545,-88.536571
 Bur Oak In Memory Of Harry I. Miller;44.034707,-88.517848
-Calvary Lutheran Church;44.011062,-88.596921
 Carl Schurz Monument;44.017756,-88.51642
 Carl Steiger Park;44.019767,-88.550524
 Christmas Box Angel of Hope;44.030441,-88.571762
 Cooper Wells Bridge;44.021896,-88.518704
+DC3;43.985702,-88.579515
 Dempsey Hall;44.02651,-88.551118
+Dennis J Noone Jr Memorial;43.988274,-88.568775
+Derber Family Memorial Area;43.981604,-88.535829
 Edgar Sawyer House;44.0336,-88.55784
+Ellenwood Plaque 1851-1932;43.994997,-88.582973
 Emmanuel United Church of Christ;44.006342,-88.549877
+Exhibit Hangar C;43.980226,-88.564587
+F-89 Static Display;43.983146,-88.578963
 First Baptist Temple;44.02078,-88.539804
+First English Lutheran Church;44.0090, -88.5454
 First Evangelical Church;44.017592,-88.529421
-First Presbyterian Church;44.020369,-88.538609
 Frederick March Sculpture Of A Pillar;44.029118,-88.553567
 Halsey Science Center;44.028434,-88.550533
 History of Oshkosh Mural;44.017254,-88.539094
+IEAA Brown Arch;43.981601,-88.559092
 Immanuel Lutheran Church;44.02281,-88.57212
+In Memory Of John H. Galica;43.983123,-88.570968
 In Memory of Patricia A. Nielson;44.019514,-88.543371
 In Memory of S. Neal Hartwell;44.021099,-88.516835
+Jet Engine Sculpture;43.978896,-88.568492
+Lakeshore Golf Course;44.0385,- 88.5702
 Leach Amphitheater;44.013688,-88.534746
+Library;44.017781,-88.536246
+Lichtfuss Memorial;43.982403,-88.536467
 Lion Sculpture;44.017821,-88.535852
-Lion Sculpture;44.020715,-88.519316
-Lion Sculpture;44.021149,-88.518632
 Lion Statue At City Hall;44.020188,-88.541726
-Little Free Library #29272;44.002237,-88.606746
-Little Free Library;44.012943,-88.594645
+Little Free Library;43.99661,-88.536304
 Menominee Park Carousel ;44.022579,-88.517825
 Menominee Park Zoo;44.020456,-88.51938
-Menominee Park;44.020988,-88.520115
 Nicole Vogel Edwards Memorial Tree;44.036862,-88.511082
 Niko's Gyros ;44.02112,-88.546648
 Norman Frisch Memorial Bench;44.030227,-88.552649
 Oldest House;44.00678,-88.55928
 Oshkosh City Hall ;44.020342,-88.541308
 Oshkosh Inclusive Park;44.007131,-88.555949
-Oshkosh Post Office;44.024685,-88.549439
-Oshkosh Public Library;44.017781,-88.536246
 Oshkosh West Water Tower;44.012011,-88.584667
 Oshkosh World War II Memorial;44.008159,-88.552825
 Paine Lumber Barn;44.035244,-88.560796
 Peppler Field;44.025546,-88.577045
 Periodic Table of Elements Sculpture;44.027995,-88.551218
+Phillips 66 Hangar;43.986027,-88.575813
 Pick N Save;44.041104,-88.541907
+Pietenpol Hangar;43.986201,-88.574374
 Plymouth Congregational Church;44.005719,-88.558034
-Rainbow Park;44.034495,-88.565867
-Ralph Loots Memorial Plaque ;44.023036,-88.515686
 Rising Sun Campus Ministry;44.024187,-88.54489
 Robert Pung Memorial Bench;44.035931,-88.510777
 Rock Sculptures;44.022362,-88.552688
 Saint Andrew's Evangelical Lutheran Church;44.039949,-88.523035
 Sculpture at Fredric March Theatre;44.028676,-88.552936
-St Joes Church;44.035267,-88.55156
+St Josaphat's Church;44.035267,-88.55156
 St. John's Lutheran Church of Oshkosh;44.026897,-88.537452
 St. Raphael Archangel Catholic Church;44.013185,-88.593524
 Statue of President Lincoln;44.023171,-88.54718
@@ -61,11 +70,7 @@ Swart Hall;44.027804,-88.552108
 The Daily Northwestern;44.016799,-88.536004
 The Gathering Place Campus Ministry;44.023867,-88.547383
 The Pride of Oshkosh Lion Heritage;44.017444,-88.585598
-The Waters;44.01723,-88.516281
 Trinity Lutheran Church;44.017438,-88.527221
-US Post Office;44.015619,-88.536236
-UWO Lincoln Hall;44.022708,-88.546411
+United States Postal Service;43.995205,-88.563272
 Veterans of Foreign Wars Memorial;44.012532,-88.521138
-War Veterans Monument;44.022103,-88.519984
-Washington;44.031949,-88.522099
 William Steiger Park;44.017823,-88.552307
