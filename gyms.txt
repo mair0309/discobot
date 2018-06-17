@@ -78,7 +78,7 @@ St Josaphat's Church;44.035267,-88.55156
 St. John's Lutheran Church of Oshkosh;44.026897,-88.537452
 St. Raphael Archangel Catholic Church;44.013185,-88.593524
 St. Vincent De Paul;44.048415, -88.543364
-Starbucks;44.039978, -88.540790
+Starbucks;44.039976, -88.541062
 Statue of President Lincoln;44.023171,-88.54718
 Stevens Park;44.010348, -88.523253
 Swart Hall;44.027804,-88.552108
