@@ -92,3 +92,4 @@ Veterans of Foreign Wars Memorial;44.012532,-88.521138
 vfw;44.012532,-88.521138
 West Algoma Park;44.033755, -88.56997
 William Steiger Park;44.017823,-88.552307
+freidauer memorial;44.065655, -88.516751
