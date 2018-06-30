@@ -110,3 +110,9 @@ William Steiger Park;44.017823,-88.552307
 World War II Memorial;44.008159,-88.552825
 WWII;44.008310, -88.552754
 Zoo;44.020937, -88.520100
+Old Beer Mural;44.005564,-88.542670
+Grace Luthern Church;44.009875, -88.540436
+44th Parallel Park;43.998755, -88.586323
+FW Vanderpool Memorial;44.015574, -88.568365
+Vanderpool Memorial;44.015574, -88.568365
+Garden Club Park;44.015574, -88.568365
