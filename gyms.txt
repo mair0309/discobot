@@ -116,10 +116,4 @@ Grace Luthern Church;44.009875,-88.540436
 FW Vanderpool Memorial;44.015574,-88.568365
 Vanderpool Memorial;44.015574,-88.568365
 Garden Club Park;44.015574,-88.568365
-Lincoln Park North Entrance;41.9377250678711,-87.63735129497947
-North Barry Ave;41.9377250678711,-87.63735129497947
-Lincoln Park South Entrance;41.91343223317198,-87.63166677206756
-knickerbocker hotel Chicago;41.899839,-87.622666
-knickerbocker;41.899839,-87.622666
-Godfrey hotel chicago;41.894594,-87.631978
-Godfrey;41.894594,-87.631978
+Wesley United Church;44.003368,-88.556740
