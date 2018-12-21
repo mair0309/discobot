@@ -117,3 +117,12 @@ FW Vanderpool Memorial;44.015574,-88.568365
 Vanderpool Memorial;44.015574,-88.568365
 Garden Club Park;44.015574,-88.568365
 Wesley United Church;44.003368,-88.556740
+Sundial;44.017746,-88.537918
+Wiouwash trail;44.038441,-88.563725
+Freidauer Memorial;44.065637,-88.516595
+James P Coughlin Center;44.082785,-88.529157
+Picnic Shelter B;44.077747,-88.530805
+Winnebago County Fitness Zone;44.077983,-88.535874
+Winnebago County Dog Park;44.080808,-88.532108
+Dog Park;44.080808,-88.532108
+Sherman Road Community Gardens;44.072331,-88.522672
