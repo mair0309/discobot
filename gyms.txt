@@ -129,9 +129,14 @@ Sherman Road Community Gardens;44.072331,-88.522672
 Riverside;44.013563,-88.535835
 Transit Center;44.017217,-88.540067
 Historic Firehouse;44.031908,-88.538518
+Firehouse;44.031908,-88.538518
 Bangkok;44.019678,-88.548224
 1899 Railway Footbridge;44.01602,-88.550051
+Footbridge;44.01602,-88.550051
 Lynn and Sherry Fox Gazebo;44.034821,-88.60496
+Fox Gazebo;44.034821,-88.60496
 Ken Robl Park;44.060576,-88.571112
 County Park Softball Diamonds;-88.571112,-88.536158
+Softball Diamonds;-88.571112,-88.536158
 P-40;43.987705,-88.562679
+
