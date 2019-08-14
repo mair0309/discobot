@@ -139,4 +139,3 @@ Ken Robl Park;44.060576,-88.571112
 County Park Softball Diamonds;-88.571112,-88.536158
 Softball Diamonds;-88.571112,-88.536158
 P-40;43.987705,-88.562679
-
